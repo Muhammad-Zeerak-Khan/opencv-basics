@@ -1,4 +1,5 @@
 pandas
+opencv-python
 numpy
 matplotlib
 seaborn

@@ -1,2 +1,2 @@
-# general-template
-general-template for any project
+# Learning OpenCV basics
+OpenCv Basics
